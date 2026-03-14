@@ -1,0 +1,8 @@
+BOT_TOKEN = "8327784731:AAFmxn2OfgAK9hMIKgVLs3acbvjkgRDCrOs"
+
+ADMIN_IDS = [6500271609]  # ID admin, sửa lại cho đúng
+
+ACC_PRICE = 5000
+MIN_DEPOSIT = 20000
+
+ADMIN_SUPPORT = "@cskhokvip117"
